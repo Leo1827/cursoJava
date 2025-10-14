@@ -9,7 +9,6 @@ public class ExerciseConditional {
         int cantPackaje = sc.nextInt();
 
         boolean validationCero = (cantPackaje == 0) || (cantPackaje < 0);
-
         // primer solucion
         String result = validationCero ? "El valor no se permite"
                 : (cantPackaje < 5) || (cantPackaje > 0) ? "No se permite compras inferiores a 5 productos"
