@@ -14,6 +14,6 @@ public class EstructureRepetitives {
             /* segunda opcion
             contador = contador + 1;*/
         } while (contador < 10);
-
+ 
     }
 }
