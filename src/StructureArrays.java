@@ -33,7 +33,5 @@ public class StructureArrays {
             System.out.println("Indice: "+ i + "Valor: " + numeros);
         }
 
-        // **Array Bidimensional: Forman tablas de valores, donde existen dos dimensiones ejemp: matrices
-
     }
 }
