@@ -9,7 +9,6 @@ public class ExerciseVectoresNumbers {
         numIng = sc.nextInt();
 
         // Creamos el vector
-
         int vector[] = new int[numIng];
 
         for(int i=0;i<numIng;i++){
